@@ -1,0 +1,18 @@
+{
+    "contents" : "install.packages(\"devtools\")\nlibrary(devtools)\ninstall_github(\"alvramos/cursoR/blob/master/TestPackage_0.1_R_x86_64-pc-linux-gnu.tar.gz\")\nlibrary(\"TestPackage\")\nsuma.dos.numeros(2,2)\nsuma.dos.numeros(2.5)\n2?suma.dos.numeros\nremove.packages(\"TestPackage\")",
+    "created" : 1450965384412.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2403645392",
+    "id" : "71892BF1",
+    "lastKnownWriteTime" : 2983528596909619,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
